@@ -12,14 +12,7 @@ NoteApp-Android is a simple note-taking application developed in Java for Androi
 - RecyclerView for displaying notes
 - Rounded image view for note thumbnails
 
-## Installation
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/chuthientuan/NoteApp-Android.git
-   ```
-2. Open the project in Android Studio.
-3. Build the project using Gradle.
 
 ## Usage
 
